@@ -1,0 +1,43 @@
+<tr class="precious-metals-outliner">
+ <td class="td-right" data-sort="1" moves="-1">
+  1
+ </td>
+ <td class="name-td">
+  <div class="logo-container">
+   <img alt="Gold logo" class="company-logo" loading="lazy" src="/img/company-logos/64/GOLD.XM.png"/>
+  </div>
+  <div class="name-div">
+   <a href="/gold/marketcap/">
+    <div class="company-name">
+     Gold
+    </div>
+    <div class="company-code">
+     <span class="rank d-none">
+     </span>
+     GOLD
+    </div>
+   </a>
+  </div>
+ </td>
+ <td class="td-right" data-sort="11320656302480">
+  $11.320 T
+ </td>
+ <td class="td-right" data-sort="178220">
+  $1,782
+ </td>
+ <td data-sort="15">
+  <span class="percentage-green">
+   0.15%
+  </span>
+ </td>
+ <td class="p-0 sparkline-td red">
+  <svg>
+   <path d="M0,26 5,32 10,30 15,29 20,32 25,32 30,35 35,39 40,33 45,22 50,19 55,17 60,10 65,5 70,4 75,4 80,10 85,3 90,7 95,6 100,6 105,6 110,35 115,6 120,6 125,36 130,40 135,36 140,41 145,36 150,37 155,36">
+   </path>
+  </svg>
+ </td>
+ <td>
+  <span class="responsive-hidden">
+  </span>
+ </td>
+</tr>
